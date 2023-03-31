@@ -1,0 +1,7 @@
+.MuiAppBar-root {
+  background-color: #933d3d !important;
+  color: white !important;
+  margin: 16px;
+  width: calc(100% - 32px) !important;
+  border-radius: 24px;
+}
